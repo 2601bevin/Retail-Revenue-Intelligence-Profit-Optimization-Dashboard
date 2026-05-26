@@ -1,4 +1,4 @@
-# Retail Sales & Profitability Analysis System
+# Retail Revenue Intelligence & Profit Optimization Dashboard
 
 ## Overview
 This project analyzes retail sales performance, customer purchasing behavior, profitability, and operational efficiency using MySQL and Power BI.
